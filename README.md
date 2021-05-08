@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @Juninho.
 - 👀 Estou interessado em programação.
-- 🌱 Atualmente estou aprendendo full stacks
+- 🌱 Atualmente quero me aprofundar para ser um desenvolvedor full-stack.
 
 
 SOBRE ESTE REPOSITÓRIO:
